@@ -1,0 +1,9 @@
+com\mycompany\msaclientapp\service\HealthCheckService.class
+com\mycompany\msaclientapp\config\BootStrap.class
+token\MPJWTToken.class
+client\RemoteClient.class
+com\mycompany\msaclientapp\config\CrossOriginResourceSharingFilter.class
+token\GenerateToken.class
+ui\ClientServlet.class
+com\mycompany\msaclientapp\config\Producers.class
+com\mycompany\msaclientapp\service\ExampleService.class
